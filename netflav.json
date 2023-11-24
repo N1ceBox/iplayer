@@ -26,10 +26,10 @@
 			"url1": "https://netflav.com/chinese-sub?page={pg}/"
 		}
 	],  
-"vod_node":"//div[contains(@class, 'video_grid_container')]//div[contains(@class, 'grid_cell')]",
+"vod_node":"//div[contains(@class, 'video_grid_container')]//div[contains(@class, 'grid_0_cell')]",
 "vod_info":"",
 "vod_score":"",
-"vod_title":"//div[@class='grid_title']",
+"vod_title":"//div[@class='grid_0_title']",
 "vod_image_id":"//img/@src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
