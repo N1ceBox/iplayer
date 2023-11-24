@@ -30,7 +30,7 @@
 "vod_info":"",
 "vod_score":"",
 "vod_title":"//div[@class='grid_0_title']",
-"vod_image_id":"//img/@src",
+"vod_image_id":"//div[contains(@class, 'lazyload-wrapper')]//img/@src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
